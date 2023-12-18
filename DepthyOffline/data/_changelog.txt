@@ -1,0 +1,9 @@
+2016.09.09
+- removed DWebView class;
+- added DWebPage class;
+- DWebPage now itself handles "Open File" and "Save File" operations;
+- last open/save path is now saved into app_dir/settings.ini;
+- added to local git repo.
+
+2016.09.03
+- first release.

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>DepthyOffline</Name>
+    <Version>160909</Version>
+    <Title>DepthyOffline</Title>
+    <Publisher>Buttsex Corporation</Publisher>
+    <AllowNonAsciiCharacters>true</AllowNonAsciiCharacters>
+    <AllowSpaceInPath>true</AllowSpaceInPath>
+    <StartMenuDir>DepthyOffline</StartMenuDir>
+    <TargetDir>@rootDir@/Apps/DepthyOffline</TargetDir>
+    <AdminTargetDir>@rootDir@/Apps/DepthyOffline</AdminTargetDir>
+    <Background>background</Background>
+</Installer>

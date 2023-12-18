@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>DepthyOffline</DisplayName>
+    <Description>Install DepthyOffline.</Description>
+    <Version>160909</Version>
+    <ReleaseDate>2016-09-09</ReleaseDate>
+    <Name>buttsex.depthyoffline</Name>
+    <Licenses>
+        <License name="Beer Public License Agreement" file="license.txt" />
+    </Licenses>
+	<Script>installscript.qs</Script>
+    <Default>true</Default>
+</Package>
